@@ -1,2 +1,4 @@
-package Base;public class BasePage {
+package Base;
+
+public class BasePage {
 }

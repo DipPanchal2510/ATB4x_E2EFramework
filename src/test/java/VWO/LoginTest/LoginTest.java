@@ -1,2 +1,4 @@
-package VWO.LoginTest;public class LoginTest {
+package VWO.LoginTest;
+
+public class LoginTest {
 }
